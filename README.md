@@ -3,7 +3,7 @@
 Dự án sử dụng ngôn ngữ python trên jupyter noteboook
 
 # Hướng dẫn
-Để khởi động dự án, bạn cần tải jupyter notebook (có thể thông qua anaconda) hoặc sử dụng trực tiếp trên google chrome thông qua extension Colaboratory
+Để khởi động dự án, bạn cần tải jupyter notebook (có thể thông qua anaconda) hoặc sử dụng trực tiếp trên google chrome thông qua extension Colaboratory(sửa file data với drive.mount)
 
 # Thông tin dataset
 - horse-colic được định nghĩa là đau bụng ở ngựa, nhưng đó là triệu chứng lâm sàng chứ không phải là chẩn đoán. Thuật ngữ đau bụng có thể bao gồm tất cả các dạng của tình trạng đường tiêu hóa gây đau cũng như các nguyên nhân khác của đau bụng không liên quan đến đường tiêu hóa.
